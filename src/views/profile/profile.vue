@@ -1,15 +1,12 @@
 <template>
-  <div>
-    
+ <div>
+    档案
   </div>
 </template>
 
 <script>
 export default {
-  name: '',
-  props: {
-
-  }
+  name: 'profile',
 }
 </script>
 
